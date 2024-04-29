@@ -10,10 +10,9 @@ RESTful API: Utilizing the principles of RESTful architecture, the backend expos
 Responsive Frontend: The frontend of the application is built using HTML and CSS, providing a responsive and visually appealing user interface that adapts to different screen sizes and devices.
 
 Technology Stack:
+
 Backend: Java, Spring Boot, Spring Security
-
 Database: MySQL
-
 Frontend: HTML, CSS
 
 Deployment:
