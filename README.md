@@ -11,7 +11,9 @@ Responsive Frontend: The frontend of the application is built using HTML and CSS
 
 Technology Stack:
 Backend: Java, Spring Boot, Spring Security
+
 Database: MySQL
+
 Frontend: HTML, CSS
 
 Deployment:
