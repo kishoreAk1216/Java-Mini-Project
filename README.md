@@ -8,10 +8,11 @@ CRUD Operations: Users can perform CRUD (Create, Read, Update, Delete) operation
 Database Integration: The application seamlessly integrates with MySQL database to store and manage todo lists and tasks persistently.
 RESTful API: Utilizing the principles of RESTful architecture, the backend exposes APIs to interact with todo lists and tasks, allowing for easy integration with frontend applications.
 Responsive Frontend: The frontend of the application is built using HTML and CSS, providing a responsive and visually appealing user interface that adapts to different screen sizes and devices.
-Technology Stack:
 
+Technology Stack:
 Backend: Java, Spring Boot, Spring Security
 Database: MySQL
 Frontend: HTML, CSS
+
 Deployment:
 The TodoList application can be deployed on any server capable of running Java applications with MySQL database support. It can be easily deployed on cloud platforms like AWS, Azure, or Google Cloud for scalability and reliability.
